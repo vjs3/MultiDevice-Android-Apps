@@ -3,5 +3,5 @@ This project is my final year engineering project in which I am trying to build 
 
 #Collaborators
 
-- Vishwajeet Srivasta
-- Harshita Gupta
+- **[Vishwajeet Srivastava](https://github.com/vjs3)**
+- **[Harshita Gupta](https://github.com/harshitagupta30)**
